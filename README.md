@@ -31,12 +31,12 @@ A modern chat application built with React, Redux, and Tailwind CSS.
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Ashirvaddubey/chat-application.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd [project-directory]
+cd chat-application
 ```
 
 3. Install dependencies:
