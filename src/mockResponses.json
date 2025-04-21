@@ -1,0 +1,18 @@
+{
+  "previousMessages": [
+    {
+      "id": "msg-1",
+      "text": "Hello! How can I help you today?",
+      "sender": "bot",
+      "timestamp": "2023-01-01T12:00:00Z"
+    }
+  ],
+  "botResponses": [
+    "I understand your question. Let me help you with that.",
+    "That's an interesting point! Here's what I think...",
+    "Thank you for sharing. Is there anything else you'd like to know?",
+    "I'm processing your request. Here's what I found...",
+    "Great question! The answer is...",
+    "I'm here to assist. Let me know if you need more details."
+  ]
+}
