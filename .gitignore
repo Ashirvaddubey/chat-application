@@ -45,3 +45,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.vercel

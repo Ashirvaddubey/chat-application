@@ -58,6 +58,30 @@ The application will open in your default browser at `http://localhost:3000`.
 3. Use the chat interface to communicate with the AI
 4. Customize your experience using the Appearance settings
 
+## Deployment
+
+The application is deployed on Vercel. You can access it at the following URLs:
+
+- Production URL: https://chat-a4eh639rc-ashirvaddubeys-projects.vercel.app
+- Project Dashboard: https://vercel.com/ashirvaddubeys-projects/chat-app/settings
+
+### Deploying Updates
+
+To deploy updates to the application:
+
+1. Make your changes to the code
+2. Commit and push your changes to GitHub
+3. Run the following command to deploy to production:
+```bash
+vercel --prod
+```
+
+You can also:
+- Configure custom domains
+- Manage environment variables
+- Monitor application performance
+through the Vercel dashboard.
+
 ## Project Structure
 
 ```
